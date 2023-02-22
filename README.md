@@ -10,4 +10,4 @@
 6. [Data Scientist Capstone(Starbucks)](https://github.com/ShoNakamura5/Data-Scientist-Nanodegree/tree/main/Project6_Data%20Scientist%20Capstone(Starbucks))
 
 ## Certificate
-![](https://github.com/ShoNakamura5/Intro-to-Self-Driving-Cars-Nanodegree/blob/main/Intro%20to%20Self-Driving%20Cars%20Nanodegree%20Certificate.png)
+![](https://github.com/ShoNakamura5/Data-Scientist-Nanodegree/blob/main/Data%20Scientist%20Nanodegree%20Certificate.png)
