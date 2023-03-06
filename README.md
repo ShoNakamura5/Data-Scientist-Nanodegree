@@ -11,4 +11,3 @@
 
 ## Certificate
 ![](https://github.com/ShoNakamura5/Data-Scientist-Nanodegree/blob/main/Data%20Scientist%20Nanodegree%20Certificate.png)
-a
